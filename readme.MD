@@ -31,3 +31,5 @@ Le programme comprend un tableau en 2 dimensions pour les lowerCase et upperCase
   - méthode d'écriture dans le fichier
   - méthode de chiffrement.
   - méthode de déchiffrement.
+
+C
